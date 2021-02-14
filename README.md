@@ -14,6 +14,8 @@ The main challenges faced with these tables were:
 -	Managing duplicate data caused by promotions/title changes.
 -	Filtering the data to only show the employee’s current title. 
 
+![retirement_titles](/retirement_titles.png)
+
 After addressing these issues, we were able to determine that:
 
 -	There are 90,398 employees who are getting close to retirement.
@@ -21,6 +23,17 @@ After addressing these issues, we were able to determine that:
 
 Breakdowns of the retirement and mentorship data by title are as follows:
 
+- Number of Retiring Employees per Title
+
+![retirement_count](/retirement_count.PNG)
+
+- Number of Eligible Mentors per Title
+
+![mentorship_count](/mentorship_count.PNG)
 
 ## Summary
-According to our analysis, management may futureproof their organization by preparing to fill the 90,398 positions that will be lost to the “silver tsunami” and preparing all eligible employees to become mentors. 
+According to our analysis, management may futureproof their organization by preparing to fill the 90,398 positions that will be lost to the “silver tsunami” and preparing all eligible employees to become mentors. One thing that management will need to consider is whether or not employees who are not in senior positions should be mentors for newer hires and if these employees are ready for a promotion.
+
+For a complete list of employees nearing retirement, click ![here](/Data/retirement_titles.csv).
+
+For a complete list of eligible employees for the mentorship program, click ![here](/Data/mentorship_eligibility.csv).
