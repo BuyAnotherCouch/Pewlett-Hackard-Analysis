@@ -34,6 +34,17 @@ Breakdowns of the retirement and mentorship data by title are as follows:
 ## Summary
 According to our analysis, management may futureproof their organization by preparing to fill the 90,398 positions that will be lost to the “silver tsunami” and preparing all eligible employees to become mentors. One thing that management will need to consider is whether or not employees who are not in senior positions should be mentors for newer hires and if these employees are ready for a promotion.
 
+After comparing the avarage salaries of the retirement group and the new hires from the last full calendar year, management may  need to make adjustments to senior employees' and incoming employees' salaries, as the difference is fairly slim. Retiring Technique Leaders and Engineers also average less than new hires.
+
+- Average 'Silver Tsunami' Salary
+
+![avg_r_salary](/avg_r_salary.PNG)
+
+- Average New Hire Salary
+
+![avg_nh_salary](/avg_nh_salary.PNG)
+
+
 For a complete list of employees nearing retirement, click ![here](/Data/retirement_titles.csv).
 
 For a complete list of eligible employees for the mentorship program, click ![here](/Data/mentorship_eligibility.csv).
